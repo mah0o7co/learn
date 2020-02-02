@@ -1,3 +1,4 @@
 fds
 sadf
 sdf
+var a=new B();
